@@ -4,9 +4,9 @@ Git is a distributed version control system widely used in the DevOps field. It 
 
 - `git init`: Initializes a new Git repository in the current directory.
 
-- `git clone [repository]`: Creates a local copy of a remote repository.
+- `git clone [repository URL]`: Creates a local copy of a remote repository.
 
-- `git add [file]`: Adds a file or changes to the staging area, preparing them for the next commit.
+- `git add [file name]`: Adds a file or changes to the staging area, preparing them for the next commit.
 
 - `git add .` By Specifying dot ,we are telling Git to adds all files or changes to the staging area, preparing them for      the next commit..
 
@@ -18,7 +18,7 @@ Git is a distributed version control system widely used in the DevOps field. It 
 
 - `git branch`: Lists existing branches in the repository.
 
-- `git checkout [branch]`: Switches to a different branch.
+- `git checkout [branch name]`: Switches to a different branch.
 
 - `git merge [branch]`: Combines changes from the specified branch into the current branch.
 
