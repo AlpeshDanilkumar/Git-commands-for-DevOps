@@ -8,6 +8,8 @@ Git is a distributed version control system widely used in the DevOps field. It 
 
 - `git add [file]`: Adds a file or changes to the staging area, preparing them for the next commit.
 
+- `git add .` By Specifying dot ,we are telling Git to adds all files or changes to the staging area, preparing them for      the next commit..
+
 - `git commit -m "[message]"`: Records changes to the repository with a descriptive message.
 
 - `git push`: Uploads local changes to a remote repository.
